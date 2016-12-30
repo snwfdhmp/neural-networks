@@ -16,7 +16,7 @@ Maybe with a lot more training, this configuration will work, but we can do it s
 What's the reason of that ? Let's try to figure it out.
 
 
-- How many "synapse" can do we have on the first config ?
+- How many "synapse" can we have on the first config ?
 
 first
 
